@@ -1,6 +1,6 @@
 ### Ejercicio de test con Vitest
 
- ![alt text](image.png)# Testing Moderno con Vitest y React
+# Testing Moderno con Vitest y React
 
 > Manual técnico de implementación de pruebas unitarias, de integración e interfaz con **Vitest**, **React Testing Library** y **JSDOM**.
 
@@ -304,7 +304,9 @@ Test Files  3 passed (3)
   Start at  15:30:42
   Duration  1.52s
 ```
+## Coverage 
 
+ ![alt text](image.png)
 ---
 
 ## Metodología AAA (Arrange-Act-Assert)
@@ -506,7 +508,7 @@ Este proyecto forma parte del material de laboratorio para el aprendizaje de:
 
 **Aridane Quevedo Cabrera**  
 Estudiante de 2DAM - Desarrollo de Aplicaciones Multiplataforma
-
+Repositorio: https://github.com/Ari-dev-design/Testing-Vitetest-Coverage
 ---
 
 ## Agradecimientos
